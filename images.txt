@@ -46,4 +46,5 @@
 #altran1502/immich-proxy:release
 #tensorchord/pgvecto-rs:pg14-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg15-v0.0.0-nightly.20240710-rootless
-tensorchord/pgvecto-rs:pg16-v0.0.0-nightly.20240710-rootless
+#tensorchord/pgvecto-rs:pg16-v0.0.0-nightly.20240710-rootless
+tensorchord/pgvecto-rs:pg14-v0.2.0
