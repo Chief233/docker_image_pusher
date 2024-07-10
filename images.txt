@@ -44,3 +44,6 @@ altran1502/immich-server:release
 altran1502/immich-machine-learning:release
 altran1502/immich-web:release
 altran1502/immich-proxy:release
+tensorchord/pgvecto-rs:pg14-v0.0.0-nightly.20240710-rootless
+tensorchord/pgvecto-rs:pg15-v0.0.0-nightly.20240710-rootless
+tensorchord/pgvecto-rs:pg14-v0.0.0-nightly.20240710-rootless
