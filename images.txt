@@ -24,24 +24,16 @@ maven:3.9.8
 zookeeper
 pypy:3.10-7.3.16
 migs/mysql-5.7
-mysql:9.0.0
 mysql:8.4.0
-mariadb:11.2.4
 mariadb:10.11.8
-redis:7.0
 redis:6.2
 mongo:8.0-rc
-postgres:12.19
-postgres:16.3
 postgres:15.7
 6053537/portainer-ce
 linuxserver/piwigo
 xiaoyaliu/alist
-nextcloud:27.1.11
 nextcloud:28.0.7
-nextcloud:29.0.3
 linuxserver/nextcloud
-busybox:1.36.1
 busybox:1.35.0
 dezhao/immich_cn
 
