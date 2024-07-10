@@ -6,7 +6,7 @@ docker
 docker/compose
 portainer/portainer
 nginx
-elasticsearch
+elasticsearch:8.13.0
 solr
 kibana
 bitnami/kafka
