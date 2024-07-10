@@ -27,6 +27,7 @@
 #mysql:8.4.0
 #mariadb:10.11.8
 #redis:6.2
+redis:6.2 --platform=alpine
 #mongo:8.0-rc
 #postgres:15.7
 #postgres:14
