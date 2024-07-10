@@ -48,4 +48,8 @@
 #tensorchord/pgvecto-rs:pg15-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg16-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg14-v0.2.0
-tensorchord/pgvecto-rs:pg14-v0.1.11
+#tensorchord/pgvecto-rs:pg14-v0.1.11
+tensorchord/pgvecto-rs:pg15-0.1.13
+tensorchord/pgvecto-rs:pg15-v0.2.0
+tensorchord/pgvecto-rs:pg16-v0.1.13
+tensorchord/pgvecto-rs:pg16-v0.2.0
