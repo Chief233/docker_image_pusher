@@ -1,14 +1,10 @@
-# 系统
 ubuntu
 centos
 debian
 alpine
-
 docker
 docker/compose
 portainer/portainer
-
-
 nginx
 elasticsearch
 solr
@@ -26,22 +22,17 @@ python
 maven
 zookeeper
 pypy
-
 migs/mysql-5.7
 mysql
 mariadb
 redis
 mongo
 postgres
-
-
-# NAS
 6053537/portainer-ce
 linuxserver/piwigo
 xiaoyaliu/alist
 nextcloud
 linuxserver/nextcloud
-
 busybox
 
 
