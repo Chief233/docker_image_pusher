@@ -29,6 +29,7 @@ mariadb:10.11.8
 redis:6.2
 mongo:8.0-rc
 postgres:15.7
+postgres:14
 6053537/portainer-ce
 linuxserver/piwigo
 xiaoyaliu/alist
