@@ -37,3 +37,5 @@ linuxserver/nextcloud
 busybox:1.35.0
 dezhao/immich_cn:1.93.3
 talebook/talebook
+linuxserver/calibre-web:nightly-version-092329c9
+linuxserver/calibre:7.13.0
