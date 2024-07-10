@@ -8,7 +8,7 @@ portainer/portainer
 nginx
 elasticsearch:8.13.0
 solr
-kibana:8.13.0
+kibana:8.14.2
 bitnami/kafka
 jenkins:2.60.1
 httpd:2.4
