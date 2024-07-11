@@ -54,4 +54,6 @@
 #tensorchord/pgvecto-rs:pg16-v0.1.13
 #tensorchord/pgvecto-rs:pg16-v0.2.0
 #linuxserver/heimdall
-johngong/calibre-web
+#johngong/calibre-web
+linuxserver/transmission:latest
+linuxserver/qbittorrent:latest
