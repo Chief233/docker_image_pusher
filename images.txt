@@ -57,4 +57,5 @@
 #johngong/calibre-web
 #linuxserver/transmission:latest
 #linuxserver/qbittorrent:latest
-netdata/netdata
+#netdata/netdata
+nextcloud:latest
