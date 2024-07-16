@@ -58,4 +58,5 @@
 #linuxserver/transmission:latest
 #linuxserver/qbittorrent:latest
 #netdata/netdata
-nextcloud:latest
+#nextcloud:latest
+nextcloud/all-in-one:latest
