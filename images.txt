@@ -59,4 +59,5 @@
 #linuxserver/qbittorrent:latest
 #netdata/netdata
 #nextcloud:latest
-nextcloud/all-in-one:latest
+#nextcloud/all-in-one:latest
+deluan/navidrome:latest
