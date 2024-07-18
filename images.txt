@@ -60,4 +60,5 @@
 #netdata/netdata
 #nextcloud:latest
 #nextcloud/all-in-one:latest
-deluan/navidrome:latest
+#deluan/navidrome:latest
+jellyfin/jellyfin:latest
