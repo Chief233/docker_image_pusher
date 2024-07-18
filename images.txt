@@ -61,4 +61,5 @@
 #nextcloud:latest
 #nextcloud/all-in-one:latest
 #deluan/navidrome:latest
-jellyfin/jellyfin:latest
+#jellyfin/jellyfin:latest
+superng6/qbittorrentee:latest
