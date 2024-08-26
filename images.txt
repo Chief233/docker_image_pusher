@@ -69,3 +69,4 @@ mysql:9.0.0
 #jellyfin/jellyfin:latest
 #superng6/qbittorrentee:latest
 #linuxserver/transmission:4.0.6
+homeassistant/home-assistant:latest
