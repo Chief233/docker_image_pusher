@@ -26,9 +26,10 @@
 #zookeeper
 #pypy:3.10-7.3.16
 #migs/mysql-5.7
-mysql:8.0.37
-mysql:9.0.0
+#mysql:8.0.37
+#mysql:9.0.0
 #mysql:8.4.0
+mysql:8.4.0 --platform=arm64
 #mariadb:10.11.8
 #redis:6.2
 #mongo:8.0-rc
@@ -69,4 +70,4 @@ mysql:9.0.0
 #jellyfin/jellyfin:latest
 #superng6/qbittorrentee:latest
 #linuxserver/transmission:4.0.6
-homeassistant/home-assistant:latest
+#homeassistant/home-assistant:latest
