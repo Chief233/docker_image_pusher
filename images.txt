@@ -52,10 +52,8 @@
 #altran1502/immich-machine-learning:release
 #altran1502/immich-web:release
 #altran1502/immich-proxy:release
-altran1502/immich-server:1.131.3
-altran1502/immich-machine-learning:1.131.3
-altran1502/immich-web:1.131.3
-altran1502/immich-proxy:1.131.3
+altran1502/immich-server:v1.131.3
+altran1502/immich-machine-learning:v1.131.3
 #tensorchord/pgvecto-rs:pg14-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg15-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg16-v0.0.0-nightly.20240710-rootless
