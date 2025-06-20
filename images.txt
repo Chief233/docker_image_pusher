@@ -29,7 +29,7 @@
 #mysql:8.0.37
 #mysql:9.0.0
 #mysql:8.4.0
---platform=arm64 mysql:8.4.0
+#--platform=arm64 mysql:8.4.0
 #mariadb:10.11.8
 #redis:6.2
 #mongo:8.0-rc
@@ -43,7 +43,7 @@
 #nextcloud:28.0.7
 #linuxserver/nextcloud
 #nextcloud:latest
-#nextcloud/all-in-one:latest
+nextcloud/all-in-one:latest
 #dezhao/immich_cn:1.93.3
 #talebook/talebook
 #linuxserver/calibre-web:nightly-version-092329c9
@@ -52,8 +52,8 @@
 #altran1502/immich-machine-learning:release
 #altran1502/immich-web:release
 #altran1502/immich-proxy:release
-altran1502/immich-server:v1.131.3
-altran1502/immich-machine-learning:v1.131.3
+#altran1502/immich-server:v1.131.3
+#altran1502/immich-machine-learning:v1.131.3
 #tensorchord/pgvecto-rs:pg14-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg15-v0.0.0-nightly.20240710-rootless
 #tensorchord/pgvecto-rs:pg16-v0.0.0-nightly.20240710-rootless
