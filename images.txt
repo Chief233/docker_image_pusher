@@ -73,5 +73,7 @@
 #superng6/qbittorrentee:latest
 #linuxserver/transmission:4.0.6
 #homeassistant/home-assistant:latest
---platform=linux/arm64 valkey/valkey:8-bookworm
+#--platform=linux/arm64 valkey/valkey:8-bookworm
+--platform=linux/amd64 6053537/portainer-ce:2.24.1
+--platform=linux/amd64 portainer/portainer-ce:2.31.3
 
