@@ -43,7 +43,7 @@
 #nextcloud:28.0.7
 #linuxserver/nextcloud
 #nextcloud:latest
-nextcloud/all-in-one:latest
+#nextcloud/all-in-one:latest
 #dezhao/immich_cn:1.93.3
 #talebook/talebook
 #linuxserver/calibre-web:nightly-version-092329c9
@@ -73,3 +73,5 @@ nextcloud/all-in-one:latest
 #superng6/qbittorrentee:latest
 #linuxserver/transmission:4.0.6
 #homeassistant/home-assistant:latest
+valkey/valkey:8-bookworm
+
