@@ -76,4 +76,5 @@
 #--platform=linux/arm64 valkey/valkey:8-bookworm
 #--platform=linux/amd64 6053537/portainer-ce:2.24.1
 #--platform=linux/amd64 portainer/portainer-ce:2.31.3
-onlyoffice/documentserver
+#onlyoffice/documentserver
+onlyoffice/documentserver:8.3.2
