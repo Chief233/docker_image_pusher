@@ -32,6 +32,7 @@
 #--platform=arm64 mysql:8.4.0
 #mariadb:10.11.8
 #redis:6.2
+redis:alpine
 #mongo:8.0-rc
 #postgres:15.7
 #postgres:14
@@ -42,7 +43,7 @@
 #xiaoyaliu/alist
 #nextcloud:28.0.7
 #linuxserver/nextcloud
-#nextcloud:latest
+nextcloud:latest
 #nextcloud/all-in-one:latest
 #dezhao/immich_cn:1.93.3
 #talebook/talebook
@@ -77,4 +78,4 @@
 #--platform=linux/amd64 6053537/portainer-ce:2.24.1
 #--platform=linux/amd64 portainer/portainer-ce:2.31.3
 #onlyoffice/documentserver
-onlyoffice/documentserver:8.3.2
+#onlyoffice/documentserver:8.3.2
