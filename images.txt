@@ -31,20 +31,21 @@
 #mysql:8.4.0
 #--platform=arm64 mysql:8.4.0
 #mariadb:10.11.8
---platform=arm64 mariadb:10.11.8
+#--platform=arm64 mariadb:10.11.8
 #redis:6.2
---platform=arm64 redis:alpine
+#--platform=arm64 redis:alpine
 #mongo:8.0-rc
 #postgres:15.7
 #postgres:14
 #busybox:1.35.0
+minio/minio:latest
 
 # NAS
 #linuxserver/piwigo
 #xiaoyaliu/alist
 #nextcloud:28.0.7
 #linuxserver/nextcloud
---platform=arm64 nextcloud:latest
+#--platform=arm64 nextcloud:latest
 #nextcloud/all-in-one:latest
 #dezhao/immich_cn:1.93.3
 #talebook/talebook
