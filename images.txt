@@ -38,7 +38,8 @@
 #postgres:15.7
 #postgres:14
 #busybox:1.35.0
-minio/minio:latest
+#minio/minio:latest
+--platform=arm64 minio/minio:latest
 
 # NAS
 #linuxserver/piwigo
