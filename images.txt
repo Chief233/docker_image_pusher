@@ -78,3 +78,4 @@ alpine:latest
 #--platform=linux/amd64 portainer/portainer-ce:2.31.3
 #onlyoffice/documentserver
 #onlyoffice/documentserver:8.3.2
+ghcr.io/immich-app/immich-server:v2
