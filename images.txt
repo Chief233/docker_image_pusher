@@ -85,11 +85,11 @@ alpine:latest
 #--platform=linux/amd64 portainer/portainer-ce:2.31.3
 #onlyoffice/documentserver
 #onlyoffice/documentserver:8.3.2
---platform=linux/arm64immich-app/immich-server:v2
---platform=linux/arm64immich-app/immich-machine-learning:v2
+--platform=linux/arm64immich-app/immich-server:2.1.0
+--platform=linux/arm64immich-app/immich-machine-learning:2.1.0
 --platform=linux/arm64valkey/valkey:9@sha256:3b55fbaa0cd93cf0d9d961f405e4dfcc70efe325e2d84da207a0a8e6d8fde4f9
 --platform=linux/arm64immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:bcf63357191b76a916ae5eb93464d65c07511da41e3bf7a8416db519b40b1c23
---platform=linux/amd64immich-app/immich-server:v2
---platform=linux/amd64immich-app/immich-machine-learning:v2
+--platform=linux/amd64immich-app/immich-server:2.1.0
+--platform=linux/amd64immich-app/immich-machine-learning:2.1.0
 --platform=linux/amd64valkey/valkey:9@sha256:3b55fbaa0cd93cf0d9d961f405e4dfcc70efe325e2d84da207a0a8e6d8fde4f9
 --platform=linux/amd64immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0@sha256:bcf63357191b76a916ae5eb93464d65c07511da41e3bf7a8416db519b40b1c23
