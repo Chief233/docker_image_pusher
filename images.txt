@@ -78,4 +78,12 @@ alpine:latest
 #--platform=linux/amd64 portainer/portainer-ce:2.31.3
 #onlyoffice/documentserver
 #onlyoffice/documentserver:8.3.2
-ghcr.io/immich-app/immich-server:v2
+--platform=linux/amd64 ghcr.io/immich-app/immich-server:v2
+--platform=linux/amd64 ghcr.io/immich-app/immich-machine-learning:v2
+--platform=linux/amd64 docker.io/valkey/valkey:9
+--platform=linux/amd64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
+
+--platform=linux/arm64 ghcr.io/immich-app/immich-server:v2
+--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:v2
+--platform=linux/arm64 docker.io/valkey/valkey:9
+--platform=linux/arm64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
