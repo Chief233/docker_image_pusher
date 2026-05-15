@@ -33,8 +33,9 @@
 #mariadb:10.11.8
 #--platform=arm64 mariadb:10.11.8
 #redis:6.2
+redis:alpine
 #--platform=arm64 redis:alpine
---platform=arm64 redis:8.6
+#--platform=arm64 redis:8.6
 #mongo:8.0-rc
 #postgres:15.7
 #postgres:14
@@ -51,6 +52,7 @@ alpine:latest
 #nextcloud:28.0.7
 #linuxserver/nextcloud
 --platform=arm64 nextcloud:latest
+nextcloud:latest
 #nextcloud/all-in-one:latest
 #talebook/talebook
 #linuxserver/calibre-web:nightly-version-092329c9
@@ -79,10 +81,10 @@ alpine:latest
 #--platform=linux/amd64 portainer/portainer-ce:2.31.3
 #onlyoffice/documentserver
 #onlyoffice/documentserver:8.3.2
-#--platform=linux/amd64 ghcr.io/immich-app/immich-server:v2
-#--platform=linux/amd64 ghcr.io/immich-app/immich-machine-learning:v2
-#--platform=linux/amd64 docker.io/valkey/valkey:9
-#--platform=linux/amd64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
+--platform=linux/amd64 ghcr.io/immich-app/immich-server:v2
+--platform=linux/amd64 ghcr.io/immich-app/immich-machine-learning:v2
+--platform=linux/amd64 docker.io/valkey/valkey:9
+--platform=linux/amd64 ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 
 #--platform=linux/arm64 ghcr.io/immich-app/immich-server:v2
 #--platform=linux/arm64 ghcr.io/immich-app/immich-machine-learning:v2
