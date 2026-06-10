@@ -33,7 +33,7 @@
 #mariadb:10.11.8
 #--platform=arm64 mariadb:10.11.8
 #redis:6.2
-redis:alpine
+#redis:alpine
 #--platform=arm64 redis:alpine
 #--platform=arm64 redis:8.6
 #mongo:8.0-rc
@@ -44,7 +44,7 @@ redis:alpine
 #--platform=arm64 minio/minio:RELEASE.2025-04-22T22-12-26Z
 #minio/minio:RELEASE.2024-10-29T16-01-48Z
 #--platform=arm64 minio/minio:RELEASE.2024-10-29T16-01-48Z
-alpine:latest
+#alpine:latest
 
 # NAS
 #linuxserver/piwigo
@@ -52,7 +52,7 @@ alpine:latest
 #nextcloud:28.0.7
 #linuxserver/nextcloud
 #--platform=arm64 nextcloud:latest
-nextcloud:latest
+#nextcloud:latest
 #nextcloud/all-in-one:latest
 #talebook/talebook
 #linuxserver/calibre-web:nightly-version-092329c9
@@ -94,3 +94,6 @@ nextcloud:latest
 #--platform=linux/arm64 nextcloud:stable-fpm-alpine
 #--platform=linux/arm64 nextcloud:stable-apache
 #--platform=linux/arm64 nextcloud:latest
+
+
+deluan/navidrome:latest
