@@ -97,5 +97,8 @@
 
 
 #deluan/navidrome:latest
-photoview/photoview:latest
-piwigo/piwigo:latest
+#photoview/photoview:latest
+#piwigo/piwigo:latest
+
+postgres:16
+linuxserver/piwigo:latest
