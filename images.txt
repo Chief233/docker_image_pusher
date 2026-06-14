@@ -100,5 +100,7 @@
 #photoview/photoview:latest
 #piwigo/piwigo:latest
 
-postgres:16
-linuxserver/piwigo:latest
+#postgres:16
+#linuxserver/piwigo:latest
+
+jellyfin/jellyfin:latest
