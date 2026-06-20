@@ -105,5 +105,6 @@
 
 #jellyfin/jellyfin:latest
 
-henrygd/beszel:latest
-henrygd/beszel-agent:latest
+#henrygd/beszel:latest
+#henrygd/beszel-agent:latest
+henrygd/beszel-agent:alpine
