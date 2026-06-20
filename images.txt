@@ -103,4 +103,7 @@
 #postgres:16
 #linuxserver/piwigo:latest
 
-jellyfin/jellyfin:latest
+#jellyfin/jellyfin:latest
+
+henrygd/beszel:latest
+henrygd/beszel-agent:latest
