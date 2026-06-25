@@ -109,4 +109,4 @@
 #henrygd/beszel-agent:latest
 #henrygd/beszel-agent:alpine
 #ghcr.io/analogj/scrutiny:master-omnibus
-nowen-video:latest
+cropflre/nowen-video:latest
